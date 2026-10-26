@@ -137,9 +137,9 @@ Adapter Type: Intel PRO/1000 MT Desktop
 The VM was allocated:
 
 ```text
-RAM: 2048 MB
+RAM: 4096 MB
 ```
-![](3-screenshot-kali-linux.png)
+![](2-screenshot-kali-linux.png)
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
@@ -161,7 +161,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](4-screenshot-kali-network-settings.png)
+![](3-screenshot-kali-network-settings.jpeg)
 
 ---
 
@@ -296,10 +296,10 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**Naima Sultana**\
+Networkwalks Cybersecurity intern 
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/naima-sultana-ba9a073ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
